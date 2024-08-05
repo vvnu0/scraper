@@ -40,7 +40,7 @@ def get_instagram_profile_info(username):
         }
 
 # Example usage
-# username = "adypatnaik"
+# username = "vishnnunair"
 # profile_info = get_instagram_profile_info(username)
 # print(profile_info) # dictionary
 
